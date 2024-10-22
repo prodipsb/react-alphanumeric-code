@@ -1,0 +1,29 @@
+{
+  "name": "react-alphanumeric-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm", 
+    "random", 
+    "code",
+    "generator",
+    "alphanumeric",
+    "unique",
+    "identifier",
+    "token",
+    "string",
+    "utility",
+    "JavaScript",
+    "Node.js",
+    "react.js",
+    "next.js",
+    "unique code", 
+    "alphanumeric code"
+  ],
+  "author": "Prodip Roy",
+  "license": "ISC",
+  "description": "A simple and efficient utility for generating random alphanumeric codes of a specified length. Ideal for creating unique identifiers, verification codes, or any other purpose that requires randomness."
+}
